@@ -1,4 +1,3 @@
-# Hi there 👋  
 I'm **Jeremy**, a 23-year-old developer from Germany with a strong focus on backend development and clean software architecture.
 
 ---
