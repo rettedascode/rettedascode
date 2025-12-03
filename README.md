@@ -1,5 +1,5 @@
 # Hi there 👋  
-I'm **Jeremy**, also known as **RetteDasCode** — a 23-year-old developer from Germany with a strong focus on backend development and clean software architecture.
+I'm **Jeremy**, a 23-year-old developer from Germany with a strong focus on backend development and clean software architecture.
 
 ---
 
