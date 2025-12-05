@@ -3,6 +3,7 @@ I'm **Jeremy**, a 23-year-old developer from Germany with a strong focus on back
 ---
 
 ## 💼 About Me
+
 I’m a trained **Fachinformatiker für Anwendungsentwicklung** (Application Developer) with hands-on experience in  
 PHP, Symfony, JavaScript, and modern web technologies.  
 I enjoy building efficient backend systems, improving existing architectures, and constantly growing through new challenges.
@@ -14,7 +15,9 @@ I enjoy building efficient backend systems, improving existing architectures, an
 ---
 
 ## 🔧 Tech Stack
+
 ### **Languages**
+
 - 🐘 PHP  
 - ☕ Java  
 - 🌐 HTML, CSS, JavaScript  
@@ -22,6 +25,7 @@ I enjoy building efficient backend systems, improving existing architectures, an
 - 🗄️ SQL (MySQL, PostgreSQL)
 
 ### **Frameworks & Tools**
+
 - 🧱 Symfony  
 - 🐳 Docker  
 - 🐧 Linux  
@@ -31,6 +35,7 @@ I enjoy building efficient backend systems, improving existing architectures, an
 ---
 
 ## ❤️ Interests
+
 - 🌍 Traveling  
 - 🚴 Cycling  
 - 🥾 Hiking  
